@@ -1,0 +1,9 @@
+Hostname,IP
+Core-Switch-01,192.168.1.1
+Firewall-Gateway,192.168.1.254
+File-Server-01,192.168.1.10
+Domain-Controller-01,192.168.1.11
+Mail-Server,192.168.1.12
+Printer-2ndFloor,192.168.1.50
+Access-Point-Lobby,192.168.1.60
+Backup-Server,192.168.1.20
