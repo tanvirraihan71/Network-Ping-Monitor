@@ -8,7 +8,7 @@ Lightweight Windows Network Monitoring Software for real-time IP/hostname ping m
 
 | Platform | Download |
 |---|---|
-| Windows | [Download EXE] |
-| Source Code | [Download ZIP] |
+| Windows | [Download EXE](https://github.com/tanvirraihan71/Network-Ping-Monitor/releases/download/Version-1/Network.Ping.Monitor.exe) |
+| Source Code | [Download ZIP](https://github.com/tanvirraihan71/Network-Ping-Monitor/archive/refs/tags/Version-1.zip) |
 
 **Latest Version:** v1.0.0
